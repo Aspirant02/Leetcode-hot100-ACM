@@ -22,7 +22,6 @@ class Myque {
         }
     }
 }
-
 public class maxSlidingWindow {
     public static int[] maxSlidingWindow(int[] nums, int k) {
         Myque que = new Myque();

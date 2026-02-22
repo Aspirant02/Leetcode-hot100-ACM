@@ -33,7 +33,6 @@ public class spiralOrder {
                 matrix[i][j] = sc.nextInt();
             }
         }
-
         System.out.println(spiralOrder(matrix));
     }
 }
