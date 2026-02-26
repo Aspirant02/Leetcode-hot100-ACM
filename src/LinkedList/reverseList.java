@@ -13,7 +13,6 @@ public class reverseList {
             next = null;
         }
     }
-
     public static ListNode reverseList(ListNode head) {
         return reverse(null, head);
     }

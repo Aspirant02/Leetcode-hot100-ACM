@@ -13,6 +13,7 @@ public class hasCycle {
             next = null;
         }
     }
+
     public static boolean hasCycle(ListNode head) {
         ListNode fast = head;
         ListNode slow = head;

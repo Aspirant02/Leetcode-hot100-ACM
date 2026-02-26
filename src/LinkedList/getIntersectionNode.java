@@ -12,7 +12,6 @@ public class getIntersectionNode {
             next = null;
         }
     }
-
     public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int sizeA = 0;
         int sizeB = 0;

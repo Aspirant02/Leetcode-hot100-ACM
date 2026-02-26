@@ -28,6 +28,7 @@ public class searchMatrix {
                 nums[i][j] = sc.nextInt();
             }
         }
+
         int target = sc.nextInt();
         System.out.println(searchMatrix(nums, target));
     }
